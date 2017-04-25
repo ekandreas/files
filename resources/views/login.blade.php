@@ -190,7 +190,5 @@
         });
     });
 </script>
-@includeIf('partials.github-ribbon')
-@includeIf('partials.analytics')
 </body>
 </html>

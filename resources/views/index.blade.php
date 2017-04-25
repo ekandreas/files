@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="de">
+<html lang="sv">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,7 +23,5 @@
 </script>
 <script src="/js/app.js"></script>
 
-@includeIf('partials.github-ribbon')
-@includeIf('partials.analytics')
 </body>
 </html>
